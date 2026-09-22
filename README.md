@@ -1,8 +1,9 @@
-# coffee-shop-analytics
 # ☕ Coffee Shop Sales Dashboard — Excel
 
 An interactive Excel dashboard analyzing six months of transaction-level sales data for a three-location coffee shop chain, built end-to-end with PivotTables, PivotCharts, and slicers.
 
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
 
@@ -62,7 +63,7 @@ The `Dashboard` sheet brings four PivotCharts together on one page, all connecte
 3. **Number of Transactions by Hour of Day** — bar chart
 4. **Most Popular Product Categories** — bar chart
 
-
+> *Add a screenshot of the `Dashboard` sheet here, e.g. `![Dashboard preview](assets/dashboard-preview.png)`*
 
 ---
 
